@@ -1,0 +1,31 @@
+nav{
+	position: fixed;
+	left: 442.225px;
+	top: 5px;
+	z-index: 1000;
+}
+
+
+ul{
+
+}
+
+ul li {
+	float: left;
+	list-style: none;
+}
+
+ul li a{
+	width: 73px;
+	display: block;
+	color: #fff;
+	background-color: #777;
+
+	font-family: Righteous,pacifico;
+	text-transform: uppercase;
+	padding: 10px 30px;
+	text-decoration: none;
+}
+a:hover{
+	background-color: #333;
+}
